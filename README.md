@@ -1,2 +1,2 @@
 # Meta
-This describes the vision, mission, values and other meta information.
+This describes the vision, the mission, values and other meta information.
