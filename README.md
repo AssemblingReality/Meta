@@ -10,27 +10,20 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 
 # TBD: Core values
 
-1. Biological and physiological needs
-2. Safety needs
-3. Love and belongingness needs
-4. Esteem needs - (i) esteem for oneself (dignity, achievement, mastery, independence) and (ii) the desire for reputation or respect from others (e.g., status, prestige)
-5. Cognitive needs - knowledge and understanding, curiosity, exploration, need for meaning and predictability.
-6. Aesthetic needs - appreciation and search for beauty, balance, form, etc.
-7. Self-actualization needs - realizing personal potential, self-fulfillment, seeking personal growth and peak experiences. A desire “to become everything one is capable of becoming”(Maslow, 1987, p. 64).
-8. Transcendence needs - A person is motivated by values which transcend beyond the personal self (e.g., mystical experiences and certain experiences with nature, aesthetic experiences, etc.)
-9. 
-10. Ahimsa (nonviolence)
-16. Honesty
-17. Creativity
-19. Opensource
-20. Data-driven
-21. Active listening (incl. to thoughts)
-22. Self-realization (incl. via thoughts)
-23. MVI - Minimum Valuable Increment
-24. Transparency
-25. Human-friendly
-26. 
-27. To check: Todoist categories, 
+1. Maslow's hierarchy of needs, - while the better approach to prioritize the base of values is not detected
+2. Viveka (aka. "right understanding," "discrimination")
+3. Ahimsa (aka. "nonviolence")
+4. Honesty
+5. Creativity
+6. Opensource
+7. Data-driven, proof-backed
+8. Active listening (incl. to thoughts)
+9. Self-realization (incl. via thoughts)
+10. MVI - Minimum Valuable Increment
+11. Transparency
+12. Human-friendly
+13. 
+14. To check: Todoist categories, 
 
 
 # Strategy
