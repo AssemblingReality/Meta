@@ -11,17 +11,17 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 # TBD: Core values
 
 1. **Active listening**  
-  Meditation, mindfulness, Vipassana, psychology, etc.
+  Meditation, mindfulness, Vipassana, psychology, finding solutions to boredom and frustration, etc.
 2. **Concious argumentation**  
   Viveka (aka. "right understanding," "discrimination"), ahimsa (aka. "nonviolence"), self-realization, MVI - Minimum Valuable Increment, etc.
 3. **Welcomeness**  
-  Opensource, Transparency, Honesty, Human-friendly, patience, etc.
+  Opensource, Transparency, Honesty, Human-friendly, patience, meeting challenges, etc.
 4. **Technology-empowered**  
-  Emerging Technology Top 10 List by CompTIA, certifications, TechRadar, OWASP ASVS, etc.
+  Mastering skills, knowledge, tools, and techniques, Emerging Technology Top 10 List by CompTIA, certifications, TechRadar, OWASP ASVS, etc.
 5. **Data-driven**  
   Proof-backed, research hungry, etc.
 6. **Diverse-connectable-systems-thinking**  
-  Feng Shui Bagua Map, Maslow's hierarchy of needs, ITIL, creativity, etc.
+  Feng Shui Bagua Map, Maslow's hierarchy of needs, ITIL, creativity, persisting with problems, etc.
 7. **Continual improvements** 
 
 
