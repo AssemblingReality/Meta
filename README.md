@@ -10,7 +10,7 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 
 # Moto
 
-It is better to make it happen by few than try making happen by alone.
+It is better to make it happen and share the profit than try making happen by alone.
 
 
 # TBD: Core values
