@@ -17,7 +17,7 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 3. **Welcomeness**  
   Opensource, Transparency, Honesty, Human-friendly, patience, meeting challenges, etc.
 4. **Technology-empowered**  
-  Mastering skills, knowledge, tools, and techniques, Emerging Technology Top 10 List by CompTIA, certifications, TechRadar, OWASP ASVS, etc.
+  Mastering skills, knowledge, tools, and techniques, Emerging Technology Top 10 List by CompTIA, certifications, TechRadar, ASVS, etc.
 5. **Data-driven**  
   Proof-backed, research hungry, etc.
 6. **Diverse-connectable-systems-thinking**  
