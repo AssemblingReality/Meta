@@ -37,9 +37,9 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 
 1. Constantly collect thoughts-ideas
 2. Constantly and efficiently prioritize the list in order to enlight the most welcome thoughts-ideas
-3. Constantly track the minimum amount of projects required to address at once in order to succeed with at least one from the list. Treat a project as a startup. Currently we need entackle 10 projects so at least 1 will be successfull, because 90% of startups fail https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp
+3. Constantly track the minimum amount of projects required to address at once in order to succeed with at least one from the list. Treat a project as a startup. Currently we need to entackle 10-11 projects so at least 1 becomes successfull, because 90% of startups fail https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp
 4. Constantly address the well known failure factors, avoid these in the active projects. E.g. https://www.embroker.com/blog/startup-statistics/
 5. Constantly construct Minimum Valuable Increment (MVIs - https://www.codurance.com/publications/2020/01/27/minimum-valuable-increment) for the active projects. 1 MVI per project is enough, more is considered a bad practice - premature optimization, waterfall, etc.
 6. Work on each MVI with no interuptions. The more welcome the thought is, the more MVIs may be addressed, e.g. TOP1st - 10 MVIs one by one, TOP2nd - 9 MVISs one by one, etc.
 7. Share the profit
-8. Open for others join in any of steps
+8. Open for others to join at any of steps
