@@ -8,6 +8,11 @@ A thought is alive.
 To help the most welcome thoughts achieve reality so positive achievement-related experiences happen to people.  
 
 
+# Moto
+
+It is better to make it happen by few than try making happen by alone.
+
+
 # TBD: Core values
 
 1. **Active listening** (meditation, mindfulness, vipassana, psychology, etc.)
