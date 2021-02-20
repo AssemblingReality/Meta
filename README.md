@@ -35,7 +35,7 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 
 # Strategy
 
-1. Constantly collect thoughts-ideas
+1. Constantly collect thoughts-ideas, e.g. https://github.com/PauliusMacernis/ideas/
 2. Constantly and efficiently prioritize the list in order to enlight the most welcome thoughts-ideas
 3. Constantly track the minimum amount of projects required to address at once in order to succeed with at least one from the list. Treat a project as a startup. Currently we need to entackle 10-11 projects so at least 1 becomes successfull, because 90% of startups fail https://www.investopedia.com/articles/personal-finance/040915/how-many-startups-fail-and-why.asp
 4. Constantly address the well known failure factors, avoid these in the active projects. E.g. https://www.embroker.com/blog/startup-statistics/
