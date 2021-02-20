@@ -8,11 +8,6 @@ A thought is alive.
 To help the most welcome thoughts achieve reality so positive achievement-related experiences happen to people.  
 
 
-# Moto
-
-It is better to make it happen and share the profit than try making happen by alone.
-
-
 # TBD: Core values
 
 1. **Active listening** (meditation, mindfulness, vipassana, psychology, etc.)
@@ -35,3 +30,8 @@ It is better to make it happen and share the profit than try making happen by al
 6. Work on each MVI with no interuptions. The more welcome the thought is, the more MVIs may be addressed, e.g. TOP1st - 10 MVIs one by one, TOP2nd - 9 MVISs one by one, etc.
 7. Share the profit
 8. Open for others to join at any of steps
+
+
+# Moto
+
+It is better to make it happen and share the profit than try making happen by alone.
