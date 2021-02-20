@@ -10,13 +10,19 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 
 # TBD: Core values
 
-1. **Active listening** (meditation, mindfulness, vipassana, psychology, etc.)
-2. **Concious argumentation** (Viveka (aka. "right understanding," "discrimination"), Ahimsa (aka. "nonviolence"), self-realization (incl. via thoughts), MVI - Minimum Valuable Increment, etc.)
-3. **Welcomeness** (Opensource, Transparency, Honesty, Human-friendly)
-4. **Technology-empowered** (Emerging Technology Top 10 List by CompTIA, - while the better approach to track what's comming is not detected, certifications, etc.)
-5. **Data-driven** (e.g. proof-backed, research hungry, etc.)
-6. **Diverse-connectable-systems-thinking** (e.g. Fengshui maps, Maslow's hierarchy of needs, - while the better approach to prioritize the base of values is not detected, ITIL, Creativity, etc.)
-7. **Continual improvements**
+1. **Active listening**  
+  Meditation, mindfulness, Vipassana, psychology, etc.
+2. **Concious argumentation**  
+  Viveka (aka. "right understanding," "discrimination"), ahimsa (aka. "nonviolence"), self-realization, MVI - Minimum Valuable Increment, etc.
+3. **Welcomeness**  
+  Opensource, Transparency, Honesty, Human-friendly, etc.
+4. **Technology-empowered**  
+  Emerging Technology Top 10 List by CompTIA, certifications, TechRadar, etc.
+5. **Data-driven**  
+  Proof-backed, research hungry, etc.
+6. **Diverse-connectable-systems-thinking**  
+  Fengshui maps, Maslow's hierarchy of needs, - while the better approach to prioritize the base of values is not detected, ITIL, creativity, etc.
+7. **Continual improvements** 
 
 
 
