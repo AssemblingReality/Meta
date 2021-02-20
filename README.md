@@ -21,7 +21,7 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 5. **Data-driven**  
   Proof-backed, research hungry, etc.
 6. **Diverse-connectable-systems-thinking**  
-  Fengshui maps, Maslow's hierarchy of needs, - while the better approach to prioritize the base of values is not detected, ITIL, creativity, etc.
+  Fengshui maps, Maslow's hierarchy of needs, - while no better approach to prioritize the base of values, ITIL, creativity, etc.
 7. **Continual improvements** 
 
 
