@@ -15,7 +15,7 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 3. **Welcomeness** (Opensource, Transparency, Creativity, Honesty, Human-friendly)
 4. **Technology-empowered** (Emerging Technology Top 10 List by CompTIA, - while the better approach to track what's comming is not detected, etc.)
 5. **Data-driven** (e.g. proof-backed, research hungry, etc.)
-6. **Connectable-systems-thinking** (e.g. Fengshui maps, Maslow's hierarchy of needs, - while the better approach to prioritize the base of values is not detected, etc.)
+6. **Diverse-connectable-systems-thinking** (e.g. Fengshui maps, Maslow's hierarchy of needs, - while the better approach to prioritize the base of values is not detected, etc.)
 
 
 # Strategy
