@@ -15,13 +15,13 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 2. **Concious argumentation**  
   Viveka (aka. "right understanding," "discrimination"), ahimsa (aka. "nonviolence"), self-realization, MVI - Minimum Valuable Increment, etc.
 3. **Welcomeness**  
-  Opensource, Transparency, Honesty, Human-friendly, etc.
+  Opensource, Transparency, Honesty, Human-friendly, patience, etc.
 4. **Technology-empowered**  
-  Emerging Technology Top 10 List by CompTIA, certifications, TechRadar, etc.
+  Emerging Technology Top 10 List by CompTIA, certifications, TechRadar, OWASP ASVS, etc.
 5. **Data-driven**  
   Proof-backed, research hungry, etc.
 6. **Diverse-connectable-systems-thinking**  
-  Fengshui maps, Maslow's hierarchy of needs, - while no better approach to prioritize the base of values, ITIL, creativity, etc.
+  Feng Shui Bagua Map, Maslow's hierarchy of needs, ITIL, creativity, etc.
 7. **Continual improvements** 
 
 
