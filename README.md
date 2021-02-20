@@ -5,7 +5,7 @@ A thought is alive.
 
 # Mission
 
-To help the most welcome thoughts achieve reality so positive achievement-related experiences happens to people.  
+To help the most welcome thoughts achieve reality so positive achievement-related experiences happen to people.  
 
 
 # TBD: Core values
