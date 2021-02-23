@@ -47,6 +47,7 @@ It is better to make it happen and share the profit than try making happen by al
 **Idea**|**Vision**|**Mission**
 :-----:|:-----:|:-----:
 Responsible time|Artificial friend at work|Software developer should develop software. Estimation, time tracking, and other bureaucracy is for the Artificial friend at work to deal with.
+Career coordinator|Artificial friend for keeping you on the career path|We should not forget that sometimes we have to change the company, team or a client we work with. Therefore Artificial friend for keeping you on the career path will keep you on track with the main stream so the change is not a problem.
 One only|Artificial friend at product picking|Noone should think of which item to buy. There is always the best item option money can buy. Provide the amount to be paid, the Artificial friend at product picking will pick you the product to buy.
 ...|...|...
 
