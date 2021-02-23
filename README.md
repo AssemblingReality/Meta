@@ -41,3 +41,12 @@ To help the most welcome thoughts achieve reality so positive achievement-relate
 # Moto
 
 It is better to make it happen and share the profit than try making happen by alone.
+
+# Projects (candidates)
+
+**Idea**|**Vision**|**Mission**
+:-----:|:-----:|:-----:
+Responsible time|Artificial friend at work|Software developer should develop software. Estimation, time tracking, and other bureaucracy is for the Artificial friend at work to deal with.
+One only|Artificial friend at product picking|Noone should think of which item to buy. There is always the best item option money can buy. Provide the amount to be paid, the Artificial friend at product picking will pick you the product to buy.
+...|...|...
+
